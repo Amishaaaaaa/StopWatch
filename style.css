@@ -1,0 +1,65 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-color:azure;
+}
+
+#heading {
+    display: flex;
+    justify-content: center;
+    color: #230505;
+    background-color: burlywood;
+    font-size: 3rem;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4rem;
+}
+
+.section {
+    padding: 3rem;
+    color: #230505;
+    font-size: 1.5rem;
+
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.common-style{
+    font-size: 3rem;
+    color: black;
+    background-color: burlywood;
+    border-radius: 3rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}
+
+.buttons {
+    padding: 1rem;
+    margin-top: 1rem;
+    font-size: 1rem;
+}
+
+.laps {
+    margin-top: 4rem;
+}
+.lap-item {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.lap2-item {
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+}
